@@ -1,0 +1,23 @@
+int를 입력받는 두 가지 방법
+
+import java.util.Scanner;
+Scanner sc = new Scanner(System.in);
+int A = sc.nextInt();
+int B = sc.nextInt();
+
+import java.io.*;
+import java.util.StringTokenizer;
+BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+int a = Integer.parseInt(st.nextToken());
+int b = Integer.parseInt(st.nextToken());
+
+마찬가지로 출력도
+
+System.out.println(A + B);
+
+BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+bw.write(String.valueOf(a + b);
+bw.flush();
+
+두 번째 방법이 코드는 더 길지만 더 빠르고 메모리도 적게먹음

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Main
+class q1000
 {
 	public static void main(String args[]) throws Exception
 	{
