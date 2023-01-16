@@ -1,0 +1,23 @@
+import java.io.*;
+class q11718 {
+    public static void main(String[] args)throws IOException{
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        while(true){
+            String str = br.readLine();
+            if (str==null) break;
+            else System.out.println(str);
+        }
+    }
+}
+
+에서 입력 받는거
+str == null 로 확인해야함
+str.equals("") 로 확인하니 에러 (왜?)
+
+그리고 이런 문제에서 str == null 체크 필요 없다고 생각했는데 (조건에 안써있어서)
+필요했음. 이런거 주의해야할듯
+
+(11719를 풀고나서)
+알았다
+str.equals("")는 공백을 체크하는거고
+str == null 은 입력종료를 체크하는거다
