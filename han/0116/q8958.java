@@ -1,6 +1,6 @@
 package baek;
 import java.io.*;
-public class Q8958 {
+public class q8958 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int N = Integer.parseInt(br.readLine());

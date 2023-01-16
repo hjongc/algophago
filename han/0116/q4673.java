@@ -1,6 +1,6 @@
 package baek;
 import java.util.Arrays;
-public class Q4673 {
+public class q4673 {
 	public static void main(String[] args) {
 		int[] number = new int[10000];
 		Arrays.fill(number, 0);
