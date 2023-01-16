@@ -26,5 +26,4 @@
 ## 내용
 
 0. 자바 기초익히기 / 01/13 ~ 
-
-  [백준에서 가장 많이 풀린 문제 TOP 100 (입문자 추천)](https://www.acmicpc.net/workbook/view/2435)
+  - [백준에서 가장 많이 풀린 문제 TOP 100 (입문자 추천)](https://www.acmicpc.net/workbook/view/2435)
