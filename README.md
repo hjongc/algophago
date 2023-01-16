@@ -1,5 +1,10 @@
 # Algorithm Study 한양유채전
 
+## 스터디 소개
+
+알고리즘 개념학습과 문제풀이를 진행합니다.
+현재는 __매주 수요일__에 모여 자바기초를 공부합니다.
+
 ## 구성원
 
 <table>
@@ -11,9 +16,6 @@
     <td align="center"><a href="https://github.com/nutbrown"><img src="https://avatars.githubusercontent.com/u/111677826?v=4?s=100" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=simbaba" widt="100px"><br /><sub><b>전혜련</b></sub></a><br /></td>     
   </tr>
 </table><br/>
-
-## 시간
-
 
 ## 내용
 
