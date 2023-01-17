@@ -1,4 +1,3 @@
-package baek0117;
 import java.io.*;
 import java.util.Arrays;
 public class q2751 {
