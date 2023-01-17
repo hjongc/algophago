@@ -1,10 +1,10 @@
 import java.io.*;
 import java.util.StringTokenizer;
-public class q1978 {
+public class q2920 {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
-        int[] input = input[8];
+        int[] input = new int [8];
         boolean ascending = true;
         boolean descending = true;
         for (int i = 0; i<8; i++){

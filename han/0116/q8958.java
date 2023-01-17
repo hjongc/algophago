@@ -1,4 +1,3 @@
-package baek;
 import java.io.*;
 public class q8958 {
 	public static void main(String[] args) throws IOException {
