@@ -1,4 +1,3 @@
-package baek0117;
 import java.io.*;
 import java.util.StringTokenizer;
 public class q2609 {
