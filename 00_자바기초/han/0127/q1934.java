@@ -1,16 +1,21 @@
-package baek0117;
+package baek0127;
 import java.io.*;
 import java.util.StringTokenizer;
-public class q10950 {
-	public static void main(String[] args) throws IOException{
+public class q1934 {
+	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int test_case = Integer.parseInt(br.readLine());
-		for (int i = 0; i<test_case; i++) {
+		for (int k = 0; k<test_case; k++) {
 			StringTokenizer st = new StringTokenizer(br.readLine());
 			int a = Integer.parseInt(st.nextToken());
 			int b = Integer.parseInt(st.nextToken());
-			System.out.println(a+b);
+			int mini = Math.min(a, b);
+			int GD = 1;
+			for (int i = 1; i<=mini; i++) {
+				if (a%i==0&&b%i==0) GD=i;
+			}
+			System.out.println(a*b/GD);
 		}
-		
 	}
+	
 }

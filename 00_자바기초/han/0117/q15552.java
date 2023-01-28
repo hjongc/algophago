@@ -1,7 +1,5 @@
-package baek0117;
 import java.io.*;
 import java.util.StringTokenizer;
-import java.util.Arrays;
 public class q15552 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
