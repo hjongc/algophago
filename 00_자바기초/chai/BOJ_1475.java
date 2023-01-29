@@ -13,7 +13,7 @@ public class BOJ_1475 {
 		while (n!=0) {
 			nums[n%10]++;
 			n/=10;
-		}q
+		}
 		
 		// 6 & 9
 		nums[9] = (nums[9] + nums[6]+1)/2;
