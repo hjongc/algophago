@@ -20,9 +20,9 @@ _매주 월요일, 화요일_ 에 모여 _자료구조 및 알고리즘_ 을 공
     <td align="center"><a href="https://github.com/hjongc"><img src="https://avatars.githubusercontent.com/u/72199470?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yssg9187" widt="100px"><br /><sub><b>채현종</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/nutbrown"><img src="https://avatars.githubusercontent.com/u/111677826?v=4?s=100" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=simbaba" widt="100px"><br /><sub><b>전혜련</b></sub></a><br /></td>     
   </tr>
-</table><br/>
+</table>
 <br/>
-<br/> 
+<br/>
 
 ## 스터디 내용
 
