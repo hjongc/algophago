@@ -24,10 +24,11 @@ _매주 월요일, 화요일_ 에 모여 _자료구조 및 알고리즘_ 을 공
 
 ## 내용
 
-00. 자바 기초익히기 / 01/13 ~ 01/25
+00. 자바 기초익히기 / 01.13 ~ 01.25
   - [백준에서 가장 많이 풀린 문제 TOP 100 (입문자 추천)](https://www.acmicpc.net/workbook/view/2435)
 
-01. 자료구조 / 01/26 ~ 
-  - [1406번: 에디터](https://www.acmicpc.net/problem/1406)
-  - [1874번: 스택 수열](https://www.acmicpc.net/problem/1874)
-  - [2346번: 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
+01. 자료구조 / 01.26 ~
+  - 선형자료구조
+    - [1406번: 에디터](https://www.acmicpc.net/problem/1406)
+    - [1874번: 스택 수열](https://www.acmicpc.net/problem/1874)
+    - [2346번: 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
