@@ -37,10 +37,11 @@ _매주 월요일, 화요일_ 에 모여 _자료구조 및 알고리즘_ 을 공
     - [1874번: 스택 수열](https://www.acmicpc.net/problem/1874)
     - [2346번: 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
 
+
+
 <br/>
 <br/>   
     
 ## 참고자료
   - [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon)
-  <br/> 
   - [BaaaaaaaarkingDog](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
