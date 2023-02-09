@@ -31,12 +31,15 @@ _매주 월요일, 화요일_ 에 모여 _자료구조 및 알고리즘_ 을 공
 <br/>
 
 
-### 01. 자료구조 / 01.26 ~
-  - 선형자료구조
-    - [1406번: 에디터](https://www.acmicpc.net/problem/1406)
-    - [1874번: 스택 수열](https://www.acmicpc.net/problem/1874)
-    - [2346번: 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
+### 01. 자료구조 / 02.01, 02.06
+  - [1406번: 에디터](https://www.acmicpc.net/problem/1406)
+  - [1874번: 스택 수열](https://www.acmicpc.net/problem/1874)
+  - [2346번: 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
 
+### 02. BFS / 02.09
+  - [1926번: 그림](https://www.acmicpc.net/problem/1926)
+  - [2178번: 미로탐색](https://www.acmicpc.net/problem/2178)
+  - [7576번: 토마토](https://www.acmicpc.net/problem/7576)
 
 
 <br/>
