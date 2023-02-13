@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.StringTokenizer;
 
 public class BOJ_2455 {
 	public static void main(String[] args) {

@@ -18,4 +18,4 @@ public class BOJ_11721 {
 
 	}
 
-}
+}q
