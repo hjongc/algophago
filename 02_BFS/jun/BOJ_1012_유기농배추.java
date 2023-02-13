@@ -30,8 +30,8 @@ public class BOJ_1012_유기농배추 {
 				map[y][x] = true;
 			}
 			
-			visited = new boolean[height][width];
 			// 탐색은 그냥 지도 전체에서 한다
+			visited = new boolean[height][width];
 			for(int i = 0; i < height; i++) { // 세로
 				for(int j = 0; j < width; j++) { // 가로
 					if(!visited[i][j] && map[i][j]) {
@@ -54,13 +54,13 @@ public class BOJ_1012_유기농배추 {
 		int[] dir_y = {0, 0, -1, 1};
 		
 		Queue<Integer[]> queue = new LinkedList<>();
+		// 처음에 시작하는 거 설정
 		queue.add(new Integer[] {y, x});
 		visited[y][x] = true;
 
-
 		while(!queue.isEmpty()) {
 			
-			// 다음 큐 요소 주위 탐색
+			// 탐색하는 좌표 x y에 넣어주고 큐에서 제거
 			y = queue.peek()[0]; // peek는 위에서 값만 반환이고
 			x = queue.peek()[1]; // poll은 빼면서 반환이다(주의)
 			queue.poll();
@@ -69,7 +69,9 @@ public class BOJ_1012_유기농배추 {
 			for(int i = 0; i < 4; i++) {
 				int xx = x + dir_x[i]; // 새로운 x 좌표
 				int yy = y + dir_y[i]; // 새로운 y 좌표
+				// 범위 안에 있는지 확인
 				if(range(yy, xx)) {
+					// 이전에 방문한 적 없고 배추가 있으면
 					if(!visited[yy][xx] && map[yy][xx]) {
 						queue.add(new Integer[] {yy, xx});
 						visited[yy][xx] = true;
@@ -80,7 +82,7 @@ public class BOJ_1012_유기농배추 {
 		}
 	}
 	
-	// 좌표가 지도 안에 있는지
+	// 좌표가 지도 안에 있는지 확인 메소드
 	static boolean range(int y, int x) {
 		if(x >= 0 && x < width && y >= 0 && y < height) {
 			return true;
