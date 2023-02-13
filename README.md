@@ -35,15 +35,22 @@ _매주 월요일, 화요일_ 에 모여 _자료구조 및 알고리즘_ 을 공
   - [1406번: 에디터](https://www.acmicpc.net/problem/1406)
   - [1874번: 스택 수열](https://www.acmicpc.net/problem/1874)
   - [2346번: 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
+<br/>
 
-### 02. BFS / 02.09
+### 02. BFS & DFS / 02.09, 02.13
   - [1926번: 그림](https://www.acmicpc.net/problem/1926)
   - [2178번: 미로탐색](https://www.acmicpc.net/problem/2178)
   - [7576번: 토마토](https://www.acmicpc.net/problem/7576)
+  - [1012번: 유기농 배추](https://www.acmicpc.net/problem/1012)
+  - [1260번: DFS와 BFS](https://www.acmicpc.net/problem/1260)
 
+  - [4179번: 불!](https://www.acmicpc.net/problem/4179)
+  - [1697번: 숨바꼭질](https://www.acmicpc.net/problem/1697)
+  - [7569번: 토마토](https://www.acmicpc.net/problem/7569)
+  - [2206번: 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+<br/>  
+### 03. 재귀 / 02.16
 
-<br/>
-<br/>   
     
 ## 참고자료
   - [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon)
