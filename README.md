@@ -48,7 +48,27 @@ _매주 월요일, 목요일_ 에 모여 _알고리즘_ 을 공부합니다.
 
 <br/>
 
-### 1) 태그 규칙
+### 1) 파일이름 규칙
+
+```
+BOJ_1234 (약어_문제번호)
+```
+
+| 약어 | 문제 사이트                                      |
+| ---- | ------------------------------------------------ |
+| BOJ  | [Baekjoon Online Judge](https://www.acmicpc.net) |
+| SWEA | [SW Expert Academy](https://swexpertacademy.com) |
+
+<br/>
+
+### 2) Commit message 규칙
+
+```
+태그: 내용
+
+ex) 문제풀이 코드를 올릴 때
+Add: 03_재귀 (Add: 문제분류) 
+```
 
 
 | 태그 |	설명 |
@@ -60,17 +80,6 @@ _매주 월요일, 목요일_ 에 모여 _알고리즘_ 을 공부합니다.
 | Rename | 파일 혹은 폴더명을 수정하거나 옮기는 작업만인 경우 |
 | Remove | 파일을 삭제하는 작업만 수행한 경우 |
 <br/>
-
-### 2) 파일이름 규칙
-
-```
-BOJ_1234 (약어_문제번호)
-```
-
-| 약어 | 문제 사이트 |
-|----------|--------------|
-| BOJ |	[Baekjoon Online Judge](https://www.acmicpc.net) |
-| SWEA	| [SW Expert Academy](https://swexpertacademy.com) |
 
 <br/>
 <br/>
