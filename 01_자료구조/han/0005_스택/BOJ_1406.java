@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Q1406 {
+public class BOJ_1406 {
 	public static void main(String[] args) throws IOException{
         // 기본 IO설정
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
