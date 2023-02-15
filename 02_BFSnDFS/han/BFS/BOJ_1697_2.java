@@ -13,7 +13,7 @@ import java.util.StringTokenizer;
 // 메모리랑 실행시간이 되게 높음... 왤까
 // 실행시간 줄이려고 양쪽에서 BFS해봤는데 별로 좋은 결과는 아니었음
 
-public class Q1697_2 {
+public class BOJ_1697_2 {
 	public static void main(String[] args) throws IOException{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine()," ");
