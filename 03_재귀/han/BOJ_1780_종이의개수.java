@@ -56,6 +56,7 @@ public class BOJ_1780_종이의개수 {
 				}
 			}
 		}
+		
 		if (tmp == 0) zeroCnt ++;
 		else if (tmp == 1) oneCnt ++;
 		else minusCnt ++;
