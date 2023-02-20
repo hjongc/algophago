@@ -2,6 +2,7 @@ package 재귀;
 
 import java.util.Scanner;
 
+// BOJ_2448_별찍기11
 public class BOJ_2448_별찍기11 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
