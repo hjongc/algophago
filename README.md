@@ -15,10 +15,11 @@ SSAFY 9th 서울 8반 <br/>
   - [4. 스터디 내용](#4-스터디-내용)
     - [0) 기초문제 (Basic Problems) / 01.13 ~ 01.25](#0-기초문제-basic-problems--0113--0125)
     - [1) 자료구조 (Data Structure) / 02.01, 02.06](#1-자료구조-data-structure--0201-0206)
-    - [2)너비우선탐색 & 깊이우선탐색 (BFS & DFS) / 02.09, 02.13](#2-너비우선탐색--깊이우선탐색-bfs--dfs--0209-0213)
+    - [2) 너비우선탐색 \& 깊이우선탐색 (BFS \& DFS) / 02.09, 02.13](#2-너비우선탐색--깊이우선탐색-bfs--dfs--0209-0213)
     - [3) 재귀 (Recursion) / 02.16](#3-재귀-recursion--0216)
     - [4) 정렬 (Sort) / 02.20](#4-정렬-sort--0220)
-    - [5)  동적계획법 (Dynamic Programming) / 02.20](#5-동적계획법-dynamic-programming--0220)
+    - [5) 동적계획법 (Dynamic Programming) / 02.23](#5-동적계획법-dynamic-programming--0223)
+    - [6) 그리디 (Greedy) / 02.27](#6-그리디-greedy--0227)
   - [5. 참고자료](#5-참고자료)
 
 <br/>
@@ -135,8 +136,20 @@ Add: 03_재귀_chai (Add: 문제분류 + 브랜치)
 
   <br/>
 
-### 5) 동적계획법 (Dynamic Programming) / 02.20
+### 5) 동적계획법 (Dynamic Programming) / 02.23
+  - [1149번: RGB거리](https://www.acmicpc.net/problem/1149)
+  - [12852번: 1로 만들기 2](https://www.acmicpc.net/problem/12852)
+  - [11055번: 가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055)
+  - [9251번: LCS](https://www.acmicpc.net/problem/9251)
+  - [11726번: 2×n 타일링](https://www.acmicpc.net/problem/11726)
+  - [11727번: 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
+  - [11057번: 오르막 수](https://www.acmicpc.net/problem/11057)
+
+  <br/>
+
+### 6) 그리디 (Greedy) / 02.27
   - 추가예정
+
 <br/>
 <br/>
 
