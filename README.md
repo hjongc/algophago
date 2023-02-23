@@ -92,14 +92,14 @@ Add: 03_재귀_chai (Add: 문제분류 + 브랜치)
 <br/>
 
 
-### 1) 자료구조 / 02.01, 02.06
+### 1) 자료구조 (Data Structure) / 02.01, 02.06
   - [1406번: 에디터](https://www.acmicpc.net/problem/1406)
   - [1874번: 스택 수열](https://www.acmicpc.net/problem/1874)
   - [2346번: 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
 
 <br/>
 
-### 2) BFS & DFS / 02.09, 02.13
+### 2) 너비우선탐색 & 깊이우선탐색 (BFS & DFS) / 02.09, 02.13
   - [1926번: 그림](https://www.acmicpc.net/problem/1926)
   - [2178번: 미로탐색](https://www.acmicpc.net/problem/2178)
   - [7576번: 토마토](https://www.acmicpc.net/problem/7576)
@@ -112,12 +112,28 @@ Add: 03_재귀_chai (Add: 문제분류 + 브랜치)
 
 <br/>
 
-### 3) 재귀 / 02.16
+### 3) 재귀 (Recursion) / 02.16
   - [1629번: 곱셈](https://www.acmicpc.net/problem/1629)
   - [11729번: 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
   - [17478번: 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)
   - [2447번 - 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
 
+<br/>
+
+### 4) 정렬 (Sort) / 02.20
+  - [2751번:	수 정렬하기 2](https://www.acmicpc.net/problem/2751)
+  - [10989번:	수 정렬하기 3](https://www.acmicpc.net/problem/10989)
+  - [15688번:	수 정렬하기 5](https://www.acmicpc.net/problem/15688)
+  - [10814번: 나이순 정렬](https://www.acmicpc.net/problem/10814)
+  - [1431번: 시리얼 번호](https://www.acmicpc.net/problem/1431)
+  - [5648번: 역원소 정렬](https://www.acmicpc.net/problem/5648)
+  - [1181번: 단어 정렬](https://www.acmicpc.net/problem/1181) 
+  - [7795번: 먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795)
+
+  <br/>
+
+### 5) 동적계획법 (Dynamic Programming) / 02.20
+  - 추가예정
 <br/>
 <br/>
 
