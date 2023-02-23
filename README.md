@@ -121,11 +121,13 @@ Add: 03_재귀_chai (Add: 문제분류 + 브랜치)
 <br/>
 
 ### 4) 정렬 (Sort) / 02.20
+  - [2751번:	수 정렬하기 2](https://www.acmicpc.net/problem/2751)
   - [10989번:	수 정렬하기 3](https://www.acmicpc.net/problem/10989)
   - [15688번:	수 정렬하기 5](https://www.acmicpc.net/problem/15688)
   - [10814번: 나이순 정렬](https://www.acmicpc.net/problem/10814)
   - [1431번: 시리얼 번호](https://www.acmicpc.net/problem/1431)
   - [5648번: 역원소 정렬](https://www.acmicpc.net/problem/5648)
+  - [1181번: 단어 정렬](https://www.acmicpc.net/problem/1181) 
   - [7795번: 먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795)
 
   <br/>
