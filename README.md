@@ -20,6 +20,7 @@ SSAFY 9th 서울 8반 <br/>
     - [4) 정렬 (Sort) / 02.20](#4-정렬-sort--0220)
     - [5) 동적계획법 (Dynamic Programming) / 02.23](#5-동적계획법-dynamic-programming--0223)
     - [6) 그리디 (Greedy) / 02.27](#6-그리디-greedy--0227)
+    - [7) 이진탐색 (binary search) / 03.02](#7-이진탐색-binary-search--0302)
   - [5. 참고자료](#5-참고자료)
 
 <br/>
@@ -148,6 +149,14 @@ Add: 03_재귀_chai (Add: 문제분류 + 브랜치)
   <br/>
 
 ### 6) 그리디 (Greedy) / 02.27
+  - [1931번: 회의실 배정](https://www.acmicpc.net/problem/1931)
+  - [11399번: ATM](https://www.acmicpc.net/problem/11399)
+  - [2170번: 선 긋기](https://www.acmicpc.net/problem/2170)
+  - [11501번: 주식](https://www.acmicpc.net/problem/11501)
+  - [8980번: 택배](https://www.acmicpc.net/problem/8980)
+  - [1700번: 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)
+
+### 7) 이진탐색 (binary search) / 03.02
   - 추가예정
 
 <br/>
