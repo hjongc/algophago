@@ -11,8 +11,8 @@ public class BOJ_1644_소수의연속합 {
 		
 		boolean[] primes = new boolean[N+1];
 		
-		primes[0] = true;
-		primes[1] = true;
+		primes[0] =true;
+		primes[1] =true;
 		
 		for (int i = 2; i<=N; i++) {
 			if (primes[i]) continue;
