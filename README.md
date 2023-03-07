@@ -20,7 +20,9 @@ SSAFY 9th 서울 8반 <br/>
     - [4) 정렬 (Sort) / 02.20](#4-정렬-sort--0220)
     - [5) 동적계획법 (Dynamic Programming) / 02.23](#5-동적계획법-dynamic-programming--0223)
     - [6) 그리디 (Greedy) / 02.27](#6-그리디-greedy--0227)
-    - [7) 이진탐색 (binary search) / 03.02](#7-이진탐색-binary-search--0302)
+    - [7) 이진탐색 (Binary Search) / 03.02](#7-이진탐색-binary-search--0302)
+    - [8) 이진탐색 (Two Pointer) / 03.07](#8-이진탐색-two-pointer--0307)
+    - [9) 해시 (Hash) / 03.14(예정)](#9-해시-hash--0314예정)
   - [5. 참고자료](#5-참고자료)
 
 <br/>
@@ -135,7 +137,7 @@ Add: 03_재귀_chai (Add: 문제분류 + 브랜치)
   - [1181번: 단어 정렬](https://www.acmicpc.net/problem/1181) 
   - [7795번: 먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795)
 
-  <br/>
+ <br/>
 
 ### 5) 동적계획법 (Dynamic Programming) / 02.23
   - [1149번: RGB거리](https://www.acmicpc.net/problem/1149)
@@ -146,7 +148,7 @@ Add: 03_재귀_chai (Add: 문제분류 + 브랜치)
   - [11727번: 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
   - [11057번: 오르막 수](https://www.acmicpc.net/problem/11057)
 
-  <br/>
+<br/>
 
 ### 6) 그리디 (Greedy) / 02.27
   - [1931번: 회의실 배정](https://www.acmicpc.net/problem/1931)
@@ -156,8 +158,28 @@ Add: 03_재귀_chai (Add: 문제분류 + 브랜치)
   - [8980번: 택배](https://www.acmicpc.net/problem/8980)
   - [1700번: 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)
 
-### 7) 이진탐색 (binary search) / 03.02
-  - 추가예정
+<br/>
+
+### 7) 이진탐색 (Binary Search) / 03.02
+  - [2295번: 세 수의 합](https://www.acmicpc.net/problem/2295)
+  - [1253번: 좋다](https://www.acmicpc.net/problem/1253)
+  - [2110번: 공유기 설치](https://www.acmicpc.net/problem/2110)
+
+<br/>
+
+### 8) 이진탐색 (Two Pointer) / 03.07
+  - [2230번: 수 고르기](https://www.acmicpc.net/problem/2230)
+  - [1806번: 부분합](https://www.acmicpc.net/problem/1806)
+  - [2003번: 수들의 합 2](https://www.acmicpc.net/problem/2003)
+
+<br/>
+
+### 9) 해시 (Hash) / 03.14(예정)
+  - [7785번: 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
+  - [1620번: 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
+  - [13414번: 수강신청](https://www.acmicpc.net/problem/13414)
+  - [17219번: 비밀번호 찾기](https://www.acmicpc.net/problem/17219)
+  - [9375번: 패션왕 신해빈](https://www.acmicpc.net/problem/9375)
 
 <br/>
 <br/>
