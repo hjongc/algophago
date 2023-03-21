@@ -23,8 +23,9 @@ SSAFY 9th 서울 8반 <br/>
     - [7) 이진탐색 (Binary Search) / 03.02](#7-이진탐색-binary-search--0302)
     - [8) 이진탐색 (Two Pointer) / 03.07](#8-이진탐색-two-pointer--0307)
     - [9) 해시 (Hash) / 03.14](#9-해시-hash--0314)
-    - [ 10) 이진검색트리 (Binary Search Tree) / 03.21](#10-이진검색트리-binary-search-tree--0321)
+    - [10) 이진검색트리 (Binary Search Tree) / 03.21](#10-이진검색트리-binary-search-tree--0321)
   - [5. 참고자료](#5-참고자료)
+
 
 <br/>
 <br/>
@@ -189,6 +190,7 @@ Add: 03_재귀_chai (Add: 문제분류 + 브랜치)
   - [1202번: 보석 도둑](https://www.acmicpc.net/problem/1202)
   - [21939번: 문제 추천 시스템 Version 1](https://www.acmicpc.net/problem/21939)
   - [23326번: 홍익 투어리스트](https://www.acmicpc.net/problem/23326)
+  - [1539번: 이진 검색 트리](https://www.acmicpc.net/problem/1539)
 
 
 <br/>
