@@ -22,7 +22,8 @@ SSAFY 9th 서울 8반 <br/>
     - [6) 그리디 (Greedy) / 02.27](#6-그리디-greedy--0227)
     - [7) 이진탐색 (Binary Search) / 03.02](#7-이진탐색-binary-search--0302)
     - [8) 이진탐색 (Two Pointer) / 03.07](#8-이진탐색-two-pointer--0307)
-    - [9) 해시 (Hash) / 03.14(예정)](#9-해시-hash--0314예정)
+    - [9) 해시 (Hash) / 03.14](#9-해시-hash--0314)
+    - [ 10) 이진검색트리 (Binary Search Tree) / 03.21](#10-이진검색트리-binary-search-tree--0321)
   - [5. 참고자료](#5-참고자료)
 
 <br/>
@@ -174,12 +175,21 @@ Add: 03_재귀_chai (Add: 문제분류 + 브랜치)
 
 <br/>
 
-### 9) 해시 (Hash) / 03.14(예정)
+### 9) 해시 (Hash) / 03.14
   - [7785번: 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
   - [1620번: 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
   - [13414번: 수강신청](https://www.acmicpc.net/problem/13414)
   - [17219번: 비밀번호 찾기](https://www.acmicpc.net/problem/17219)
   - [9375번: 패션왕 신해빈](https://www.acmicpc.net/problem/9375)
+
+<br/>
+
+### 10) 이진검색트리 (Binary Search Tree) / 03.21
+  - [7662번: 이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
+  - [1202번: 보석 도둑](https://www.acmicpc.net/problem/1202)
+  - [21939번: 문제 추천 시스템 Version 1](https://www.acmicpc.net/problem/21939)
+  - [23326번: 홍익 투어리스트](https://www.acmicpc.net/problem/23326)
+
 
 <br/>
 <br/>
