@@ -25,8 +25,7 @@ SSAFY 9th 서울 8반 <br/>
     - [9) 해시 (Hash) / 03.14](#9-해시-hash--0314)
     - [10) 이진검색트리 (Binary Search Tree) / 03.21](#10-이진검색트리-binary-search-tree--0321)
   - [5. 참고자료](#5-참고자료)
->>>>>>> Stashed changes
-  - [5. 참고자료](#5-참고자료)
+
 
 <br/>
 <br/>
