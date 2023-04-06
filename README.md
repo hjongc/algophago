@@ -24,6 +24,8 @@ SSAFY 9th 서울 8반 <br/>
     - [8) 이진탐색 (Two Pointer) / 03.07](#8-이진탐색-two-pointer--0307)
     - [9) 해시 (Hash) / 03.14](#9-해시-hash--0314)
     - [10) 이진검색트리 (Binary Search Tree) / 03.21](#10-이진검색트리-binary-search-tree--0321)
+    - [11) 백트래킹 (Back Tracking) / 03.29](#11-백트래킹-back-tracking--0329)
+    - [12) 그래프 (Graph) / 04.05](#12-그래프-graph--0405)
   - [5. 참고자료](#5-참고자료)
 
 
@@ -192,6 +194,29 @@ Add: 03_재귀_chai (Add: 문제분류 + 브랜치)
   - [23326번: 홍익 투어리스트](https://www.acmicpc.net/problem/23326)
   - [1539번: 이진 검색 트리](https://www.acmicpc.net/problem/1539)
 
+<br/>
+
+### 11) 백트래킹 (Back Tracking) / 03.29
+  - [15649번: N과 M (1)](https://www.acmicpc.net/problem/15649)
+  - [9663번: N-Queen](https://www.acmicpc.net/problem/9663)
+  - [1182번: 부분수열의 합](https://www.acmicpc.net/problem/1182)
+  - [15650번: N과 M (2)](https://www.acmicpc.net/problem/15650)
+  - [15651번: N과 M (3)](https://www.acmicpc.net/problem/15651)
+  - [15652번: N과 M (4)](https://www.acmicpc.net/problem/15652)
+  - [15663번: N과 M (9)](https://www.acmicpc.net/problem/15663)
+  - [1941번: 소문난 칠공주](https://www.acmicpc.net/problem/1941)
+
+
+<br/>
+
+### 12) 그래프 (Graph) / 04.05
+  - [1260번: DFS와 BFS](https://www.acmicpc.net/problem/1260)
+  - [2606번: 바이러스](https://www.acmicpc.net/problem/2606)
+  - [5567번: 결혼식](https://www.acmicpc.net/problem/5567)
+  - [11403번: 경로 찾기](https://www.acmicpc.net/problem/11403)
+  - [2660번: 회장뽑기](https://www.acmicpc.net/problem/2660)
+  - [5214번: 환승](https://www.acmicpc.net/problem/5214)
+  - [1389번: 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)
 
 <br/>
 <br/>
